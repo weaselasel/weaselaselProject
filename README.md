@@ -1,2 +1,2 @@
 # weaselaselProject
-This is a test repository whereto try out some code.
+This is a test repository where to try out some code.
